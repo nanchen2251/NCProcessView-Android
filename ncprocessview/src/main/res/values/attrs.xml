@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NCProcessView">
+        <attr name="pv_finished_color" format="color|reference" />
+        <attr name="pv_unfinished_color" format="color|reference" />
+        <attr name="pv_finished_tv_color" format="color|reference" />
+        <attr name="pv_unfinished_tv_color" format="color|reference" />
+        <attr name="pv_tv_size" format="dimension" />
+        <attr name="pv_data" format="reference"/>
+        <attr name="pv_circle_radius" format="dimension"/>
+        <attr name="pv_stroke_padding" format="dimension"/>
+        <attr name="pv_stroke_width" format="dimension"/>
+    </declare-styleable>
+</resources>
